@@ -11,7 +11,7 @@ Rafael Manzano
 
 ## Instalar dependencias
 
-Check <a href=''>https://github.com/JavierLima/Practical_final_testing/blob/master/requirements.txt</a>
+Check <a href=''>https://github.com/FitaFiton/Testing-Django-Unit-Testing-Selenium-BDD-/blob/master/requirements.txt</a>
 ```python
   >>> pip install -r requirements.txt
 ```
